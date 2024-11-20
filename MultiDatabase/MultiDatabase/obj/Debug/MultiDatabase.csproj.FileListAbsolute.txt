@@ -1,0 +1,7 @@
+C:\Users\cesar\source\repos\MultiDatabase\MultiDatabase\bin\Debug\MultiDatabase.exe.config
+C:\Users\cesar\source\repos\MultiDatabase\MultiDatabase\bin\Debug\MultiDatabase.exe
+C:\Users\cesar\source\repos\MultiDatabase\MultiDatabase\bin\Debug\MultiDatabase.pdb
+C:\Users\cesar\source\repos\MultiDatabase\MultiDatabase\obj\Debug\MultiDatabase.csproj.AssemblyReference.cache
+C:\Users\cesar\source\repos\MultiDatabase\MultiDatabase\obj\Debug\MultiDatabase.csproj.CoreCompileInputs.cache
+C:\Users\cesar\source\repos\MultiDatabase\MultiDatabase\obj\Debug\MultiDatabase.exe
+C:\Users\cesar\source\repos\MultiDatabase\MultiDatabase\obj\Debug\MultiDatabase.pdb
